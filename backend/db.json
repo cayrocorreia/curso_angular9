@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "name": "Iphone",
+      "price": "5000.99",
+      "id": 4
+    },
+    {
+      "name": "Teste",
+      "price": "5600.99",
+      "id": 5
+    }
+  ]
+}
