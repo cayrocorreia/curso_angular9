@@ -11,5 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.16.1"
+    "elliptic": ">=6.5.3"
+}
   }
 }
